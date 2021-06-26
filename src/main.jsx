@@ -1,6 +1,11 @@
 function App() {
-  return <div>Hello React!</div>;
+  return (
+    <div>
+      <Tweet content="Hello" />
+      <Tweet content="React!" />
+    </div>
+  );
 }
 
-const target = document.querySelector('#app');
+const target = document.querySelector("#app");
 ReactDOM.render(<App />, target);
