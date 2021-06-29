@@ -6,14 +6,18 @@
 
 ## Purpose of this repo
 
-Do the hands-on.
+Hello World to React.js.
+
+## What I do in this repo
+
+- Do the hands-on
 
 ## MEMO
 
 ### Run a HTTP server with python3
 
 ```console
-$ python3 -m http.server 8080
+make server
 ```
 
 ## Env
@@ -34,5 +38,3 @@ CPU ARCH     : x86_64
 $ python3 --version
 Python 3.9.2
 ```
-
-TODO:
